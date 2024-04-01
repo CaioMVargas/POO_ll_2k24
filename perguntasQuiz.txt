@@ -1,0 +1,50 @@
+As baleias são mamíferos.,Verdadeiro
+O sol gira em torno da Terra.,Falso
+A Lua é um planeta.,Falso
+A água ferve a 100 graus Celsius.,Verdadeiro
+O plástico é biodegradável.,Falso
+A Antártida é o continente mais frio.,Verdadeiro
+Os seres humanos têm cinco sentidos básicos.,Verdadeiro
+O diamante é o mineral mais duro conhecido pelo homem.,Verdadeiro
+A Terra é redonda.,Verdadeiro
+A eletricidade viaja mais rápido que a luz.,Falso
+Os cangurus são nativos da Austrália.,Verdadeiro
+O oxigênio é o elemento mais abundante na crosta terrestre.,Verdadeiro
+A Revolução Industrial começou na Inglaterra.,Verdadeiro
+O aço é um elemento químico.,Falso
+A velocidade da luz é constante.,Verdadeiro
+O oxigênio é essencial para a respiração humana.,Verdadeiro
+O universo está em expansão.,Verdadeiro
+Os camelos armazenam água em suas corcovas.,Verdadeiro
+Os golfinhos são mamíferos.,Verdadeiro
+O Brasil é o maior país do mundo em área territorial.,Falso
+Os elefantes têm o melhor sentido de olfato no reino animal.,Verdadeiro
+A peste bubônica foi causada por uma bactéria.,Verdadeiro
+A luz branca é composta por todas as cores do espectro.,Verdadeiro
+A Austrália é uma ilha.,Verdadeiro
+A gripe espanhola ocorreu no século XX.,Verdadeiro
+A Mona Lisa foi pintada por Leonardo da Vinci.,Verdadeiro
+O deserto do Saara é o maior do mundo.,Verdadeiro
+O café é feito a partir de grãos de café.,Verdadeiro
+O osso humano é mais forte que o concreto.,Falso
+As plantas realizam fotossíntese para obter energia.,Verdadeiro
+O veneno das abelhas é ácido.,Verdadeiro
+O ácido clorídrico é uma substância ácida.,Verdadeiro
+O Sol é uma estrela.,Verdadeiro
+O Havaí é um estado dos Estados Unidos.,Verdadeiro
+O oxigênio é um gás incolor.,Verdadeiro
+A primeira guerra mundial começou em 1914.,Verdadeiro
+Os ursos polares são nativos do Polo Norte.,Falso
+O zero absoluto é a temperatura mais baixa possível.,Verdadeiro
+Os gatos têm sete vidas.,Falso
+A Grande Muralha da China pode ser vista da lua.,Falso
+A síndrome de Estocolmo é uma condição psicológica.,Verdadeiro
+O ferro é um elemento químico essencial ao corpo humano.,Verdadeiro
+Os camaleões mudam de cor para se camuflar.,Verdadeiro
+O Monte Everest é a montanha mais alta do mundo.,Verdadeiro
+A gravidade na Lua é menor do que na Terra.,Verdadeiro
+Os tubarões são peixes.,Verdadeiro
+As bananas crescem em palmeiras.,Verdadeiro
+A Mona Lisa está exposta no Museu do Louvre.,Verdadeiro
+Os humanos podem regenerar membros perdidos.,Falso
+A idade da Terra é estimada em cerca de 4,5 bilhões de anos.,Verdadeiro

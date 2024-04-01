@@ -1,0 +1,3 @@
+Arroz,10.50
+Feijão,5.75
+Macarrão,3.25
